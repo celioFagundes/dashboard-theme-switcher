@@ -1,6 +1,7 @@
 {
   "name": "dashboard-theme-switcher",
   "version": "0.1.0",
+  "homepage": "dashboard-theme-switcher/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
